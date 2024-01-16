@@ -1,2 +1,3 @@
 # Final-Year-Project
 This project will simulate robot exploration to visualize the area using an environment called Webots simulator. The robot will be equipped with a lidar sensor to detect the range of the surrounding obstacle. Then the mapping algorithm will use the acquired range data to compute the occupancy probability and visualize the area on a display. In addition to generating a map from the sensor data, it also uses the data to guide the robot around the map to avoid obstacles. The motivation of this project is in response to the question of how to observe an area that is assumed to be risky for human involvement or to generate a map that is not accessible by humans.
+Link to simulation: https://youtu.be/UeRk7rFrVG0
